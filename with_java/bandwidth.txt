@@ -1,0 +1,6 @@
+Total number of packet capture 3841
+Mac: [94:44:52:72:b9:3c]          bandwidth per%: [2.1802561]
+Mac: [a0:99:9b:1c:45:a5]          bandwidth per%: [0.0031814566]
+Mac: [ec:5a:86:14:aa:14]          bandwidth per%: [0.061287504]
+Mac: [84:4b:f5:aa:03:6d]          bandwidth per%: [0.19937457]
+Mac: [70:18:8b:d9:c9:c5]          bandwidth per%: [1.0]

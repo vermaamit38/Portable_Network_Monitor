@@ -1,0 +1,16 @@
+
+Mac: [94:44:52:72:b9:3c]
+	,[{eth:ethertype:ip:tcp=728, eth:ethertype:ip:igmp=2, frame_len=441334, eth:ethertype:ip:tcp:http:data-text-lines=0, eth:ethertype:ip:tcp:ssl:=0, eth:ethertype:ip:udp:data=0, eth:ethertype:ip:tcp:http=6, eth:ethertype:ip:tcp:ssl=359, eth:ethertype:ip:icmp:ip:tcp=0, eth:ethertype:ip:tcp:ssl:ssl=11, eth:ethertype:arp=1, eth:ethertype:ip:tcp:http:data=33, eth:ethertype:ip:udp:ntp=0, eth:ethertype:ip:udp:dns=120, eth:ethertype:ip:tcp:ssl:http=3, eth:ethertype:ip:tcp:http:ocsp:ocsp:x509af=0}]
+	
+Mac: [a0:99:9b:1c:45:a5]
+	,[{eth:ethertype:ip:igmp=7, frame_len=644, eth:ethertype:ip:udp:data=1}]
+	
+Mac: [ec:5a:86:14:aa:14]
+	,[{eth:ethertype:ip:igmp=5, frame_len=12406, eth:ethertype:ip:udp:http=64, eth:ethertype:ip:udp:dns=13}]
+	
+Mac: [84:4b:f5:aa:03:6d]
+	,[{eth:ethertype:ip:igmp=7, frame_len=40358, eth:ethertype:ip:udp:bootp=3, eth:ethertype:arp=3, eth:ethertype:ipv6:ipv6.nxt:udp:dhcpv6=6, eth:ethertype:ip:udp:nbdgm:smb:browser=1, eth:ethertype:ip:udp:http=22, eth:ethertype:ip:udp:nbns=36, eth:ethertype:ipv6:ipv6.nxt:udp:http=90}]
+	
+Mac: [70:18:8b:d9:c9:c5]
+	,[{eth:ethertype:ip:tcp=1060, frame_len=202423, eth:ethertype:ip:tcp:ssl:ssl=0, eth:ethertype:arp=0, eth:ethertype:ip:udp:ntp=1, eth:ethertype:ip:udp:dns=404, eth:ethertype:ip:tcp:ssl:http=3, eth:ethertype:ip:tcp:http=2, eth:ethertype:ip:tcp:ssl=373, eth:ethertype:ip:tcp:http:ocsp:x509af=0}]
+	

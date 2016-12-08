@@ -1,0 +1,6 @@
+Mac: [94:44:52:72:b9:3c],Associated  ip: [108.174.147.63]
+Mac: [a0:99:9b:1c:45:a5],Associated  ip: [192.168.2.3]
+Mac: [ec:5a:86:14:aa:14],Associated  ip: [192.168.2.2]
+Mac: [84:4b:f5:aa:03:6d],Associated  ip: []
+Mac: [70:18:8b:d9:c9:c5],Associated  ip: [192.168.2.6]
+Total number of computer connected5
