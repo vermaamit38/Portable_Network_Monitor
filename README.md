@@ -1,1 +1,16 @@
-# Portable_network_monitor
+# Portable_Network_Monitor
+About Project:<br/>
+Portable Network Monitor On Beagle Bone Black.To develop a Network Monitor on beagle bone black and extracting all the information like number of connected computers,bandwidth of each computer,protocols access by each of connected computers ,link access by each of connected computers from datasets created in promiscuous mode,And displaying these information on Android phone or on internet with the help of url created from ngrok tool. 
+Portable Network Monitor on Beagle Bone Black <br/><br/><br/>
+ <br/>
+Running this Application: <br/>
+1.In withMysql folder run b.py after starting MySQL <br/>
+2.In browser open  http://localhost:120/NW password="123"  <br/>
+3.Run  DNSLookup.java <br/>
+ <br/>
+ 
+Dependencies: <br/>
+1.Bottle framework <br/>
+2.MySQLdb <br/>
+3.Python <br/>
+4.Java <br/>
